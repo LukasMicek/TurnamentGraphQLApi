@@ -1,0 +1,6 @@
+@TurnamentGraphQLApi_HostAddress = http://localhost:5201
+
+GET {{TurnamentGraphQLApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
